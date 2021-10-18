@@ -15,7 +15,7 @@ go run main.go -t |TOKEN|
 
 Where |TOKEN| is your personal bot token that should not be leaked anywhere. 
 
-Keep it safe! To find out what your Discord bot |TOKEN| is search "Discord bot Token" in google.
+Keep it safe! To find out what your Discord bot |TOKEN| is search "Discord bot Token" in google and follow the guide.
 
 
 #######################################################################################################
