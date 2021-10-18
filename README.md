@@ -5,6 +5,7 @@ Inspired by https://github.com/Faurby/quoteBot.
 FriendlyBot is a discord bot, which stores your custom data and uses commands to have fun with your friends.
 
 #######################################################################################################
+
                                         TO RUN
 
 
